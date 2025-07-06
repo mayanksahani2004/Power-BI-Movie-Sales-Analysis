@@ -1,5 +1,7 @@
 # 🎬 Movie Revenue Analysis (2006–2016) – Power BI Dashboard
 
+![image](https://github.com/user-attachments/assets/a1bfccb9-b013-488f-9b2e-36bbc5805296)
+
 This Power BI project presents an interactive dashboard analyzing movie performance from **2006 to 2016**. The dataset includes 924 movies with key metrics such as revenue, ratings, reviews, popularity, metascores, and director statistics. The goal of this project is to explore patterns in movie earnings, critical success, and directorial influence using clean visual storytelling.
 
 ---
@@ -23,9 +25,6 @@ The visuals include:
 - **Revenue Category Breakdown**: Movies grouped into High, Average, and Low Revenue.
 - **Review and Popularity Counts**: Insights into how reviews correlate with popularity.
 - **Director Performance Table**: Key insights into which directors generated the most revenue and highest ratings (e.g., J.J. Abrams, Christopher Nolan).
-
-![image](https://github.com/user-attachments/assets/a1bfccb9-b013-488f-9b2e-36bbc5805296)
-
 
 
 ### 2️⃣ Performance Analysis Dashboard:
