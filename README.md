@@ -24,11 +24,17 @@ The visuals include:
 - **Review and Popularity Counts**: Insights into how reviews correlate with popularity.
 - **Director Performance Table**: Key insights into which directors generated the most revenue and highest ratings (e.g., J.J. Abrams, Christopher Nolan).
 
+![image](https://github.com/user-attachments/assets/20575534-9774-4af2-9bf6-ddfd64adfcb2)
+
+
 ### 2️⃣ Performance Analysis Dashboard:
 This dashboard highlights the **Top-Grossing Movie** each year along with:
 
 - Title, director, revenue, runtime, rating, metascore, and review type.
 - A summary table of the **Top 10 Directors** by revenue, average ratings, and vote counts.
+
+![image](https://github.com/user-attachments/assets/fc324840-2201-4ed4-acd4-160c9a60e731)
+
 
 ---
 
