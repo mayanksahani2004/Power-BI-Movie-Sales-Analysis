@@ -24,7 +24,8 @@ The visuals include:
 - **Review and Popularity Counts**: Insights into how reviews correlate with popularity.
 - **Director Performance Table**: Key insights into which directors generated the most revenue and highest ratings (e.g., J.J. Abrams, Christopher Nolan).
 
-![image](https://github.com/user-attachments/assets/20575534-9774-4af2-9bf6-ddfd64adfcb2)
+![image](https://github.com/user-attachments/assets/a1bfccb9-b013-488f-9b2e-36bbc5805296)
+
 
 
 ### 2️⃣ Performance Analysis Dashboard:
